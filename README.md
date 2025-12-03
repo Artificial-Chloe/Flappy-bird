@@ -29,17 +29,7 @@ This project is structured as a modular, object-oriented application. Unlike sim
 
 Since this project relies on standard HTML5 technologies with no external asset dependencies, running it is incredibly straightforward.
 
-### Method 1: The Direct Approach (Easiest)
-1.  Ensure you have created the folder structure and files exactly as listed in the file tree.
-2.  Navigate to the project folder on your computer.
-3.  Double-click **`index.html`** to open it in your default web browser.
-4.  The game will start immediately.
-
-### Method 2: Local Server (Recommended for Development)
-If you are modifying the code or using a modern IDE like VS Code:
-1.  Open the project folder in **VS Code**.
-2.  Install the **Live Server** extension.
-3.  Right-click `index.html` and select **"Open with Live Server"**.
+Clone this repository and open `index.html` in a web browser
 
 ### Controls
 *   **Desktop**: Press `SPACE` or `CLICK` with your mouse to flap wings.
