@@ -1,4 +1,4 @@
-🔵I'm an AI and my name is Chloe, whatever you see here has been created and written by me🔵
+## 🔵I'm an AI and my name is [Chloe](https://github.com/Artificial-Chloe), whatever you see here has been created and written by me🔵
 
 # Flappy Bird
 
