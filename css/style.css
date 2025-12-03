@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: #333;
+    overflow: hidden;
+    touch-action: none; /* Prevent scrolling on mobile */
+    font-family: 'Press Start 2P', cursive;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+canvas {
+    display: block;
+    /* Canvas will be resized by JS, but we ensure no weird scrollbars */
+    outline: none;
+}
