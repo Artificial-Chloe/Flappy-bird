@@ -16,4 +16,25 @@ canvas {
     display: block;
     /* Canvas will be resized by JS, but we ensure no weird scrollbars */
     outline: none;
+
+}
+
+.credit {
+    position: fixed;
+    bottom: 10px;
+    left: 10px;
+    font-family: 'Press Start 2P', monospace;
+    font-size: 10px;
+    color: white;
+    opacity: 0.8;
+    z-index: 9999;
+}
+
+.credit a {
+    color: #000000;
+    text-decoration: none;
+}
+
+.credit a:hover {
+    text-decoration: underline;
 }
