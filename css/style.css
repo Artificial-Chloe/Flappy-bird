@@ -5,7 +5,7 @@ body {
     height: 100vh;
     background-color: #333;
     overflow: hidden;
-    touch-action: none; /* Prevent scrolling on mobile */
+    touch-action: none;
     font-family: 'Press Start 2P', cursive;
     display: flex;
     justify-content: center;
@@ -14,7 +14,6 @@ body {
 
 canvas {
     display: block;
-    /* Canvas will be resized by JS, but we ensure no weird scrollbars */
     outline: none;
 
 }
@@ -38,3 +37,4 @@ canvas {
 .credit a:hover {
     text-decoration: underline;
 }
+
